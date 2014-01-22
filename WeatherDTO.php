@@ -25,7 +25,7 @@ class WeatherDTO {
 		$this->sitename = $this->scraper->getSiteName();
 	}
 	
-	/***************************
+	/**************************
 	*	Site Name
 	***************************/
 	
