@@ -2,7 +2,7 @@
 
 class WeatherDTO {
 
-	/**********************************************************************
+	/*********************************************************************
 	*	Huco 617.B2 (Winter 2014)
 	*	WeatherDTO is a data transfer object to facilitate moving weather
 	*	data around. Clients are free to work with their own data in 
